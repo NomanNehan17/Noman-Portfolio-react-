@@ -46,7 +46,7 @@ const About = () => {
                         </article>
                     </div>
                     <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eos voluptatem eius dolorem maiores nihil ducimus at rem ullam reprehenderit quidem quia deserunt, molestiae, eligendi amet repellat molestias quos totam.
+                    I'm a motivated and diligent university student currently in my third year of honors at the International Islamic University. Throughout my academic career, I've been a dedicated student, consistently achieving excellent grades and making the Dean's List multiple times. I'm particularly interested in competitive programming and web development and have participated in several research projects related to this field. I'm also an active member of the university community, having served as a volunteer in various student organizations and events. In my free time, I enjoy playing cricket. After completing my degree, I plan to pursue a career in software engineering, where I hope to apply my knowledge and skills to make a positive impact on society.
                     </p>
                     <a href="#contact" className='btn btn-primary'> Let's Talk</a>
                 </div>
